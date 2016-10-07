@@ -1,0 +1,5 @@
+module FetchPerson
+  def self.get_person
+    [{"first_name":"Janki","last_name":"Patil","father_name":"Chetan Patil","mother_name":"Manorma Patil","gender":"Female","blood_group":"o postive","number_of_f_membrs":"5"},{"first_name":"Janki1","last_name":"Patil","father_name":"Chetan1 Patil","mother_name":"Manorma1 Patil","gender":"Female","blood_group":"o postive","number_of_f_membrs":"5"},{"first_name":"Janki2","last_name":"Patil","father_name":"Chetan2 Patil","mother_name":"Manorma2 Patil","gender":"Female","blood_group":"o postive","number_of_f_membrs":"5"},{"first_name":"Janki3","last_name":"Patil","father_name":"Chetan3 Patil","mother_name":"Manorma3 Patil","gender":"Female","blood_group":"o postive","number_of_f_membrs":"5"},{"first_name":"Janki4","last_name":"Patil","father_name":"Chetan4 Patil","mother_name":"Manorma4 Patil","gender":"Female","blood_group":"o postive","number_of_f_membrs":"5"}]
+  end
+end
