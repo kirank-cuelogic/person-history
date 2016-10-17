@@ -1,0 +1,18 @@
+{"results":
+  [{"name":"New Product Development: Software & Tech", "description":"", "id":"62946", "members":"364531"},
+   {"name":"Tech Talks", "description":"", "id":"91146", "members":"96257"},
+   {"name":"High-Tech Ventures", "description":"", "id":"57883", "members":"82690"},
+   {"name":"high tech", "description":"", "id":"35305", "members":"38889"},
+   {"name":"Tech Savvy Entrepreneurs", "description":"", "id":"43223", "members":"25725"},
+   {"name":"Seattle Young Professionals in Tech", "description":"", "id":"140880", "members":"15786"}],
+  "meta":
+  {"next":"",
+    "method":"Topics",
+    "link":"https://api.meetup.com/topics",
+    "description":"API method for accessing meetup topics",
+    "lon":"",
+    "title":"Meetup Topics",
+    "id":"",
+    "lat":""
+  }
+}
